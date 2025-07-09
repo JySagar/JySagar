@@ -44,7 +44,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: jyotidasweb@gmail.com *(example placeholder)*
+- 📧 Email: sagarjyotidas69@gmail.com *(example placeholder)*
 - 💼 LinkedIn: [linkedin.com/in/jysagar](#)
 - 🌐 Portfolio: Coming soon on Netlify!
 
