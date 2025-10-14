@@ -29,7 +29,7 @@
 | Project | Description | Live Demo | Repo |
 |--------|-------------|-----------|------|
 | ✅ Todo App v3 | Full-featured task manager using React, `useState`, localStorage | [View](#) | [Code](https://github.com/JySagar/todo-app) |
-| ✅ Calculator | Functional calculator using React state logic | [View](https://calculator-react-zeta-henna.vercel.app/) | [Code](https://calculator-react-zeta-henna.vercel.app/) |
+| ✅ Calculator | Functional calculator using React state logic | [View](https://calculator-react-zeta-henna.vercel.app/) | [Code]([https://calculator-react-zeta-henna.vercel.app/](https://github.com/JySagar/calculator-react.git)) |
 | ✅ Bharat Clock | Real-time clock project built using JSX and React hooks | [View](#) | [Code](https://github.com/JySagar/bharat-clock) |
 
 > 💡 Add screenshots + live links later when you host on [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/)
